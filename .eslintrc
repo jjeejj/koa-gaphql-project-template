@@ -1,0 +1,23 @@
+{
+    "env": {
+        "node": true,
+        "jest": true,
+        "mongo": true,
+        "es6": true,
+        "commonjs": true
+    },
+    "extends": [
+        "eslint:recommended"
+    ],
+    "parserOptions": {
+        "sourceType": "script",
+        "ecmaVersion": 2020,
+        "ecmaFeatures": {
+            "impliedStrict": true
+        }
+    },
+    "rules": {
+        "no-console": 1,
+        "no-underscore-dangle": "off"
+    }
+}
