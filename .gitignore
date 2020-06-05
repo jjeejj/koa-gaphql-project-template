@@ -19,3 +19,4 @@ coverage
 # vs code
 .history
 .idea
+.vscode
