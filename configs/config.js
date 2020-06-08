@@ -7,7 +7,8 @@ const mysqlConfig = require('./config.json');
 // 公共的配置
 const commonConf = {
     host: '0.0.0.0',
-    port: 6080
+    port: 6080,
+    isProd: env === "production" 
 };
 
 // 不同环境的配置

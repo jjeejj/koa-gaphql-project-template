@@ -1,26 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "12345678",
     "database": "etcmall",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": "root",
     "database": "etcmall",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": null,
     "database": "etcmall",
     "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false
+    "dialect": "mysql"
   }
 }
