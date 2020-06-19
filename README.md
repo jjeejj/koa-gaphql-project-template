@@ -1,1 +1,1 @@
-# etcmall-merchant-web
+# koa-gaphql-project-template

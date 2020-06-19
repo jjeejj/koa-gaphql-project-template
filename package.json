@@ -1,22 +1,22 @@
 {
-  "name": "etcmall-merchant-web",
+  "name": "koa-gaphql-project-template",
   "version": "1.0.0",
-  "description": "etcmall merchant web admin",
+  "description": "koa-gaphql-project-template",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Unity-Labs-Development/etcmall-merchant-web.git"
+    "url": "git+https://github.com/jjeejj/koa-gaphql-project-template.git"
   },
   "keywords": [],
   "author": "ul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Unity-Labs-Development/etcmall-merchant-web/issues"
+    "url": "https://github.com/jjeejj/koa-gaphql-project-template/issues"
   },
-  "homepage": "https://github.com/Unity-Labs-Development/etcmall-merchant-web#readme",
+  "homepage": "https://github.com/jjeejj/koa-gaphql-project-template#readme",
   "devDependencies": {
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
